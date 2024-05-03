@@ -1,7 +1,7 @@
 ## 01. Gitleaks
 
 Gitleak install
-
+123
 ```bash {"id":"01HWSY7NTNEJZ4RYNRTSMM4WJ7"}
   wget https://github.com/gitleaks/gitleaks/releases/download/v8.18.2/gitleaks_8.18.2_linux_x64.tar.gz
   tar xvf gitleaks_8.18.2_linux_x64.tar.gz
